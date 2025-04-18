@@ -1,6 +1,8 @@
 # Astro Blog Template @trueberryless
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> 
+![blog](https://github.com/user-attachments/assets/87dd9bb6-55a3-40fa-a91f-65b18c041d0b)
 
 Features:
 
