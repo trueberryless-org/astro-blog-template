@@ -1,5 +1,7 @@
 # Astro Blog Template @trueberryless
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2427dc-63df-4012-9f3f-36828253e9ef/deploy-status)](https://app.netlify.com/sites/astro-blog-template-trueberryless/deploys)
+
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 >
 > ![blog](https://github.com/user-attachments/assets/87dd9bb6-55a3-40fa-a91f-65b18c041d0b)
